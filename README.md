@@ -1,19 +1,17 @@
-### ***SAL_BW_Project_1*** 
-### **Assignment: Web Scraping, SQL Insights, and Data Visualization**  
+## ***SAL_BW_Project_1*** 
+## ***Assignment: Web Scraping, SQL Insights, and Data Visualization***  
 
 
+### **Project Objective** 
+* To scrape book data from the website (http://books.toscrape.com/)
+* Save the data in a CSV file
+* Generate SQL insights using MySQL
+* Perform Exploratory Data Analysis (EDA) and Data Visualization using Python.
+* 
 
-## **Problem Statement**
-### **Objective** 
-* In this assignment, you will scrape book data from the website [**Books to Scrape**](http://books.toscrape.com/), save the data in a CSV file, generate insights using SQL, and then perform Exploratory Data Analysis (EDA) and data visualization using Python.
+### **Project Walkthrough (Video)**
 
-### **Part 1: Web Scraping (Using Python)**
 
-1. Scrape the website [**http://books.toscrape.com/**](http://books.toscrape.com/) and extract the following details for each book:
-    - **Title**
-    - **Price**
-    - **Availability**
-    - **Rating (out of 5 stars)**
    
   2. Store the data in a CSV file with columns:
  
