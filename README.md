@@ -51,3 +51,7 @@ Using **Pandas, Matplotlib, and Seaborn**, perform the following:
     - **Histogram** showing the distribution of book prices.
     - **Pie chart** representing the proportion of books in stock vs. out of stock.
     - Any other creative visualization that helps understand the dataset.
+  
+### **Project Outcome**
+
+
