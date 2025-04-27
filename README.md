@@ -9,46 +9,22 @@
 * Perform Exploratory Data Analysis (EDA) and Data Visualization using Python.
 
  ### **Technologies Used**
-Python (for Web Scraping & Data Cleaning, Data Visualizatio)
-MySQL (for Data Storage & Querying)
+* Python (for Web Scraping & Data Cleaning, Data Visualizatio)
+* MySQL (for Data Storage & Querying)
 
 
 
 ### **Project Stages**
-## Stage 1: Scraping and Storing Raw Data
 
 * Scraped from http://books.toscrape.com/ 
-* Stored the raw data in bigbasket.csv for further processing.
+* Stored the raw data in books.csv for further processing.
+* Cleaned and preprocessed the raw data (handling duplicates, missing values, and removing symbols) and stored in books_cleaned.csv.
+* Executed SQL queries on MySQL to filter and analyze the trends
+* Extracted insights based on price variations, and category-wise comparisons.
 
 ### **Walkthrough (Video)**
-
+#***Coming soon***
    
-  2. Store the data in a CSV file with columns:
- 
-    ```
-    title, price, availability, rating
-    
-    ```
-3. Ensure that all pages are scraped, not just the first one.
-
-
-### **Part 2: SQL Insights**
-
-After scraping and saving the data, load it into a SQL database and answer the following questions:
-
-1. **Find the number of books available in stock.**
-2. **List the top 5 most expensive books.**
-3. **Find the average rating of books.**
-4. **Retrieve the total number of books for each rating (e.g., 1-star, 2-star, etc.).**
-
-**Example Insights (For Reference)**
-
-- There are **X** books available in stock.
-- The most expensive book is **"XYZ"**, priced at **£59.99**.
-- The average rating of books is **4.2 stars**.
-- There are **Y** books with a **5-star** rating.
-
-
 
   
 ### **Project Outcome**
