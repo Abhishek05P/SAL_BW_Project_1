@@ -7,10 +7,20 @@
 * Save the data in a CSV file
 * Generate SQL insights using MySQL
 * Perform Exploratory Data Analysis (EDA) and Data Visualization using Python.
-* 
 
-### **Project Walkthrough (Video)**
+ ### **Technologies Used**
+Python (for Web Scraping & Data Cleaning, Data Visualizatio)
+MySQL (for Data Storage & Querying)
 
+
+
+### **Project Stages**
+## Stage 1: Scraping and Storing Raw Data
+
+* Scraped from http://books.toscrape.com/ 
+* Stored the raw data in bigbasket.csv for further processing.
+
+### **Walkthrough (Video)**
 
    
   2. Store the data in a CSV file with columns:
@@ -39,19 +49,10 @@ After scraping and saving the data, load it into a SQL database and answer the f
 - There are **Y** books with a **5-star** rating.
 
 
-### **Part 3: Exploratory Data Analysis (EDA) and Data Visualization**
 
-Using **Pandas, Matplotlib, and Seaborn**, perform the following:
-
-1. **Basic EDA**
-    - Load the CSV into a Pandas DataFrame.
-    - Display basic statistics about the dataset (e.g., number of books, average price, missing values, etc.).
-2. **Data Visualization**
-    - **Bar chart** of the number of books for each rating (1 to 5 stars).
-    - **Histogram** showing the distribution of book prices.
-    - **Pie chart** representing the proportion of books in stock vs. out of stock.
-    - Any other creative visualization that helps understand the dataset.
   
 ### **Project Outcome**
-
+1. Successfully extracted website.
+2. Stored and managed data efficiently in MySQL.
+3. Built an insightful Data Visualization for comparative analysis.
 
