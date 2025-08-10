@@ -22,9 +22,6 @@
 * Executed SQL queries on MySQL to filter and analyze the trends
 * Extracted insights based on price variations, and category-wise comparisons.
 
-### **Walkthrough (Video)**
-#***Coming soon***
-   
 
   
 ### **Project Outcome**
