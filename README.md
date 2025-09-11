@@ -2,19 +2,19 @@
 ## ***Assignment: Web Scraping, SQL Insights, and Data Visualization***  
 
 
-### **Project Objective** 
+### **Project Objective:** 
 * To scrape book data from the website (http://books.toscrape.com/)
 * Save the data in a CSV file
 * Generate SQL insights using MySQL
 * Perform Exploratory Data Analysis (EDA) and Data Visualization using Python.
 
- ### **Technologies Used**
+ ### **Tech Stack:**
 * Python (for Web Scraping & Data Cleaning, Data Visualizatio)
 * MySQL (for Data Storage & Querying)
 
 
 
-### **Project Stages**
+### **Project Stages:**
 
 * Scraped from http://books.toscrape.com/ 
 * Stored the raw data in books.csv for further processing.
@@ -29,3 +29,6 @@
 2. Stored and managed data efficiently in MySQL.
 3. Built an insightful Data Visualization for comparative analysis.
 
+## **🏷 Tags**
+
+#WebScraping  #BeautifulSoup  #PythonRequests #DataExtraction #EDA	 #Pandas #DataCleaning  #DataExploration	#SQL #AdvancedSQL  #Subqueries	#DataAnalytics #EndToEndProject 
