@@ -31,6 +31,5 @@
 
 ## **🏷 Tags**
   
-| **Tags** 
 | `#WebScraping`  `#BeautifulSoup`  `#PythonRequests` `#Python` `#Pandas` `#EDA` `#DataExtraction`  `#DataModeling` `#SQL` `#DataAnalytics` `#Subqueries` `#AdvancedSQL` `#EndToEndProject` |
 
