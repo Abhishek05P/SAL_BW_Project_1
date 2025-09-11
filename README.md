@@ -31,4 +31,4 @@
 
 ## **🏷 Tags**
 
-'#WebScraping'  #BeautifulSoup'  '#PythonRequests' '#DataExtraction' '#EDA'	 '#Pandas' '#DataCleaning'  '#DataExploration'	'#SQL' '#AdvancedSQL'  '#Subqueries'	'#DataAnalytics' '#EndToEndProject' 
+|'#WebScraping'  #BeautifulSoup'  '#PythonRequests' '#DataExtraction' '#EDA'	 '#Pandas' '#DataCleaning'  '#DataExploration'	'#SQL' '#AdvancedSQL'  '#Subqueries'	'#DataAnalytics' '#EndToEndProject' |
