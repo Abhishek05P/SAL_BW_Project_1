@@ -30,5 +30,7 @@
 3. Built an insightful Data Visualization for comparative analysis.
 
 ## **🏷 Tags**
+  
+| **Tags** 
+| `#WebScraping`  `#BeautifulSoup`  `#PythonRequests` `#Python` `#Pandas` `#EDA` `#DataExtraction`  `#DataModeling` `#SQL` `#DataAnalytics` `#Subqueries` `#AdvancedSQL` `#EndToEndProject` |
 
-| '#WebScraping'  #BeautifulSoup'  '#PythonRequests' '#DataExtraction' '#EDA'	 '#Pandas' '#DataCleaning'  '#DataExploration'	'#SQL' '#AdvancedSQL'  '#Subqueries'	'#DataAnalytics' '#EndToEndProject' |
